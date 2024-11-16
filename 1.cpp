@@ -1,7 +1,8 @@
+//mandamos llamas  las librerias que vamos a ocupar 
 #include <iostream>
 #include <string>
 using namespace std;
-
+//ingredamos los atributos que van a tener 
 struct CD {
     string titulo;
     string artista;
