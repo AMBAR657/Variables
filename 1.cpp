@@ -12,6 +12,7 @@ struct CD {
     int anio;
     float precio;
 };
+//tenemos nuestrl metodo main
 
 int main() {
     CD cd1;
