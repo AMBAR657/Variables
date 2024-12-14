@@ -19,7 +19,7 @@ int main() {
 //pedimos que se ingresen lls datos 
     cout << "Ingresa el título del CD: ";
     getline(cin, cd1.titulo);
-
+//ingredamos el titulo
     cout << "Ingresa el artista: ";
     getline(cin, cd1.artista);
 
