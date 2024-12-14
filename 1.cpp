@@ -7,6 +7,7 @@ struct CD {
 //declaramos nuestras variables de tipo string
     string titulo;
     string artista;
+//declaramos nuestras variables de tipo int
     int num_canciones;
     int anio;
     float precio;
