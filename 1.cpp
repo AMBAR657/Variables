@@ -16,7 +16,7 @@ struct CD {
 
 int main() {
     CD cd1;
-
+//pedimos que se ingresen lls datos 
     cout << "Ingresa el título del CD: ";
     getline(cin, cd1.titulo);
 
