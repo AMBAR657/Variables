@@ -4,6 +4,7 @@
 using namespace std;
 //ingredamos los atributos que van a tener 
 struct CD {
+//declaramos nuestras variables de tipo string
     string titulo;
     string artista;
     int num_canciones;
