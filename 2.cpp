@@ -1,3 +1,4 @@
+//llamamos nuetras fincionesn
 #include <iostream>
 #include <string>
 using namespace std;
